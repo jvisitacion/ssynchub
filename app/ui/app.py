@@ -22,7 +22,7 @@ DASHBOARD_GEOMETRY = "1100x780"
 
 
 class SyncHubApp(tk.Tk):
-    APP_TITLE = "Sync Hub"
+    APP_TITLE = "System Sync Hub"
     MIN_WIDTH = 900
     MIN_HEIGHT = 700
 
